@@ -1,0 +1,1 @@
+console.log('Some really cool and equally amazing feature for sprint 1!');
